@@ -1,0 +1,9 @@
+.todos_container {
+  /* border: 2px solid black; */
+  width: 95%;
+  /* height: 100%; */
+  margin: auto auto;
+  margin-top: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}

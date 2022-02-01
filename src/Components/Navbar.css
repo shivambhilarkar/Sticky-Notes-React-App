@@ -1,0 +1,129 @@
+nav {
+  width: 30%;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 5px;
+  box-shadow: 10px 10px 50px gray;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#searchinput {
+  padding-left: 15px;
+  width: 55%;
+  height: 50px;
+  border: none;
+  margin: 2px;
+  outline: none;
+  font-size: 20px;
+}
+nav h1 {
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
+  font-size: 30px;
+  text-shadow: 2px 2px rgb(0, 174, 255);
+}
+.navbtn {
+  height: 50px;
+  width: 130px;
+  border: 1px solid black;
+  background-color: rgb(20, 87, 97);
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: 1px;
+  float: right;
+  cursor: pointer;
+}
+
+#add_form {
+  background-color: rgb(255, 255, 255);
+  /* border: 2px solid black; */
+  box-shadow: 10px 10px 500px rgb(0, 0, 0);
+  border-radius: 10px;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto auto;
+  margin-top: -500px;
+  padding: 20px;
+}
+#add_todo {
+  width: 95%;
+  margin: 5px;
+  padding-left: 10px;
+  height: 30px;
+  font-size: 15px;
+}
+#add_info {
+  width: 95%;
+  padding-left: 10px;
+  height: 180px;
+  font-size: 15px;
+  margin: 5px;
+}
+#add_btn {
+  height: 50px;
+  width: 130px;
+  /* border: 1px solid black; */
+  background-color: rgb(0, 183, 255);
+  color: white;
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+#add_btn:hover {
+  box-shadow: 5px 5px 10px black;
+}
+#cancel_btn {
+  height: 50px;
+  width: 100px;
+  /* border: 1px solid black; */
+  background-color: rgb(255, 0, 0);
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+#cancel_btn:hover {
+  box-shadow: 5px 5px 10px black;
+}
+#add_form_span {
+  /* border: 2px solid black; */
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@keyframes pop {
+  0% {
+  }
+  50% {
+    transform: translateY(300px);
+  }
+  100% {
+    transform: translateY(600px);
+  }
+}
+@keyframes poprev {
+  0% {
+    transform: translateY(600px);
+  }
+  50% {
+    transform: translateY(200px);
+  }
+  100% {
+    transform: translateY(-300px);
+  }
+}
