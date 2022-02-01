@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Dashboard
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/56465438/151982705-66a8aeda-a187-4f71-9c18-9412603cbc3f.png">
 
-Create
+Create.\
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/56465438/151982858-bdaef7e1-3b88-45b9-be8c-54371a178820.png">
 
 
-UPDATE
+UPDATE.\
 <img width="407" alt="image" src="https://user-images.githubusercontent.com/56465438/151982760-a349f7c2-6655-4764-b68e-8b88bdfd0042.png">
 
 
