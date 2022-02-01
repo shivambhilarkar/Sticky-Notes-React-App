@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sticky-Notes-React-App/static/css/main.3f312436.css",
+    "main.js": "/Sticky-Notes-React-App/static/js/main.339aef22.js",
+    "static/media/paperclipn.png": "/Sticky-Notes-React-App/static/media/paperclipn.53843dca9185591f79c6.png",
+    "index.html": "/Sticky-Notes-React-App/index.html",
+    "main.3f312436.css.map": "/Sticky-Notes-React-App/static/css/main.3f312436.css.map",
+    "main.339aef22.js.map": "/Sticky-Notes-React-App/static/js/main.339aef22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f312436.css",
+    "static/js/main.339aef22.js"
+  ]
+}
